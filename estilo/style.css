@@ -21,9 +21,20 @@ html, body{
     background-color: darkgray;
 }
 header{
-    background-color: black;
+    background-color: orange;
     color: white;
     text-align: center;
+}
+.normal2{
+    background-color: black;
+    color: white;
+}
+img{
+
+    display: block;
+    margin-left: 900px;
+    margin-top: -300px;
+   
 }
 header > h1{
     font-family: var(--font2);
@@ -42,6 +53,30 @@ header a,footer a{
 header a:hover,footer a:hover{
     text-decoration: underline;
 }
+img.imagem2{
+    margin-top: -300px;
+    margin-bottom: -30px;
+
+}
+img.imagem3{
+    margin-top: -300px;
+    margin-bottom: -40px;
+}
+img.imagem4{
+    margin-top: -310px;
+    margin-bottom: -40px;
+}
+img.imagem5{
+    margin-top: -310px;
+    margin-bottom: -40px;
+    margin-right: -200px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+img.imagem6{
+    margin-top: -300px;
+    margin-bottom: -20px;
+}
 section{
     font-family: var(--font3);
     padding-top: 10vh;
@@ -59,6 +94,12 @@ section.imagem{
     background-size: cover;
     background-attachment: fixed;
 }
+section.imagem > h1{
+    
+    padding: 5px;
+    
+    text-shadow: 1px 1px 0px black;
+}
 section.imagem > p{
     display: inline-block;
     padding: 5px;
@@ -66,11 +107,15 @@ section.imagem > p{
     text-shadow: 1px 1px 0px black;
 }
 section#img01{
-    background-image: url('../imagens/background001.jpg');
+    background-image: url('../imagens/bailee.jpeg');
     background-position: right center;
 }
 section#img02{
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('../imagens/stranger\ things.jpeg');
+
+}
+section#img03{
+    background-image: url('../imagens/klara.jpeg');
 
 }
 footer{
