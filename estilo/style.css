@@ -125,6 +125,9 @@ section.imagem > p{
     background-color: rgba(0, 0, 0, 0.555);
     text-shadow: 1px 1px 0px black;
 }
+section#img00{
+    background-image: url('../imagens/eu.jpeg');
+}
 section#img01{
     background-image: url('../imagens/bailee.jpeg');
     background-position: right center;
@@ -139,6 +142,9 @@ section#img03{
 }
 section#img04{
     background-image: url('../imagens/cebolinha.jpeg');
+}
+section#img05{
+    background-image: url(../imagens/cell\ vs\ gohan.jpeg);
 }
 footer{
     background-color: black;
