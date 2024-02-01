@@ -59,6 +59,24 @@ img.imagem2{
     margin-bottom: -30px;
 
 }
+.imagem1,p{
+    display: inline-block;
+}
+.imagem2,p{
+    display: inline-block;
+}
+.imagem3,p{
+    display: inline-block;
+}
+.imagem4,p{
+    display: inline-block;
+}
+.imagem5,p{
+    display: inline-block;
+}
+.imagem6,p{
+    display: inline-block;
+}
 img.imagem3{
     margin-top: -300px;
     margin-bottom: -40px;
