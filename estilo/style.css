@@ -2,6 +2,13 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Opcional: define a altura para centralizar verticalmente */
+}
+
 
 :root{
     --font1: Verdana, Geneva, Tahoma, sans-serif;
@@ -127,6 +134,8 @@ section.imagem > p{
 }
 section#img00{
     background-image: url('../imagens/eu.jpeg');
+    max-width: 100%;
+    height: auto;
 }
 section#img01{
     background-image: url('../imagens/bailee.jpeg');

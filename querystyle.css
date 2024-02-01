@@ -1,30 +1,32 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 320px) { 
+@media screen and (max-width: 120px) { 
     section#img00{
         background-image: url('../imagens/eu.jpeg');
-        max-width: 80%;
+        max-width: 100%;
+        height: auto;
+        
         
     }
     section#img01{
         background-image: url('../imagens/bailee.jpeg');
-        max-width: 80%;
+        max-width: 100%;
     }
     section#img02{
         background-image: url('../imagens/stranger\ things.jpeg');
-        max-width: 80%;
+        max-width: 100%;
     }
     section#img03{
         background-image: url('../imagens/klara.jpeg');
-        max-width: 80%;
+        max-width: 100%;
     }
     section#img04{
         background-image: url('../imagens/cebolinha.jpeg');
-        max-width: 80%;
+        max-width: 100%;
     }
     section#img05{
         background-image: url(../imagens/cell\ vs\ gohan.jpeg);
-        max-width: 80%;
+        max-width: 100%;
     }
     
 }
