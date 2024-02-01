@@ -127,35 +127,24 @@ section.imagem > p{
 }
 section#img00{
     background-image: url('../imagens/eu.jpeg');
-    width: 100vw;
-    height: 100vh;
 }
 section#img01{
     background-image: url('../imagens/bailee.jpeg');
     background-position: right center;
-    width: 100vw;
-    height: 100vh;
 }
 section#img02{
     background-image: url('../imagens/stranger\ things.jpeg');
-    width: 100vw;
-    height: 100vh;
 
 }
 section#img03{
     background-image: url('../imagens/klara.jpeg');
-    width: 100vw;
-    height: 100vh;
+
 }
 section#img04{
     background-image: url('../imagens/cebolinha.jpeg');
-    width: 100vw;
-    height: 100vh;
 }
 section#img05{
     background-image: url(../imagens/cell\ vs\ gohan.jpeg);
-    width: 100vw;
-    height: 100vh;
 }
 footer{
     background-color: black;
