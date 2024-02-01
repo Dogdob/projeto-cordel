@@ -3,28 +3,46 @@
 @media screen and (max-width: 768px){ 
     section#img00{
         background-image: url('../imagens/eu.jpeg');
-        max-width: 80%;
+        
+        max-width: 100%;
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
         
     }
     section#img01{
         background-image: url('../imagens/bailee.jpeg');
-        max-width: 80%;
+        
+        max-width: 100%;
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
     }
     section#img02{
         background-image: url('../imagens/stranger\ things.jpeg');
-        max-width: 80%;
+        
+        max-width: 100%;
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
     }
     section#img03{
         background-image: url('../imagens/klara.jpeg');
-        max-width: 80%;
+        
+        max-width: 100%;
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
     }
     section#img04{
         background-image: url('../imagens/cebolinha.jpeg');
-        max-width: 80%;
+        
+        max-width: 100%;
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
     }
     section#img05{
         background-image: url(../imagens/cell\ vs\ gohan.jpeg);
-        max-width: 80%;
+        
+        max-width: 100%;
+        height: auto; /* Mantém a proporção da imagem */
+        display: block;
     }
     
 }
