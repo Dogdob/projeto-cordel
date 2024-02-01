@@ -137,6 +137,9 @@ section#img03{
     background-image: url('../imagens/klara.jpeg');
 
 }
+section#img04{
+    background-image: url('../imagens/cebolinha.jpeg');
+}
 footer{
     background-color: black;
     color: white;
